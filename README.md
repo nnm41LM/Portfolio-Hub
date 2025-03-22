@@ -40,5 +40,10 @@
 - **ハンドトラッキングで線を描画 / 削除 / オブジェクト移動**
 - **ガーディアン非表示機能により自由な移動が可能**
 - **Unity + Scaniverse** で開発
-
+- 
 ---
+
+### 🛠 [Meta Quest と M5Stack を Bluetooth で連携](https://github.com/nnm41LM/VRBluetooth)
+![Unity Gaussian Splatting VR Video](images/VRBluetooth.gif)  
+- **M5StackでBluetoothを用いた信号発信**
+- **Meta Questでリアルタイムに信号を受信して連携**
